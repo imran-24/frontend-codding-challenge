@@ -65,7 +65,6 @@ Here is a link to the [Final Result (sample)](https://fe-test.intellixio.com/)
      git add .
      git commit -m "Fix: Implemented challenges"
      ```
-
 2. **Create a Pull Request**
    - Push your changes to **your GitHub repository**.
    - Create a Pull Request from the "assessment" branch to the "main" or "master" branch.
